@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7935c323-afd8-4e5a-96e3-1177cd4149be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/catalog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/contacts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/png/catalog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/png/download.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/png/free-icon-instagram-1384015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/png/free-icon-whatsapp-3670302 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/png/icon-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/png/icon-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/png/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/png/image 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/png/image 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/png/image 3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/png/image 4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/png/image 5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/png/image 6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/png/image 7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/png/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/png/logos_telegram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/png/rec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/png/slide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/svg/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/svg/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/svg/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/svg/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/svg/Vector.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/svg/arrow1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/svg/arrow2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/svg/arrr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/svg/check.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/svg/clock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/svg/close.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/svg/cross.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/svg/cross_burger.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/svg/filter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/svg/iconamoon_arrow-down-2-light.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/svg/mail.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/svg/maps-and-flags.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/svg/menu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/svg/phone-receiver-silhouette.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/svg/phone.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/js/index.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/js/index.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/product.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/simple__page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/catalog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/js/index.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/js/index.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/simple__page.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/simple__page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/logos.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/map.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/preims.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/slider.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/spec.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/catalog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/catalog/catalog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contacts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contacts/contacts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/png/catalog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/png/download.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/png/free-icon-instagram-1384015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/png/free-icon-whatsapp-3670302 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/png/icon-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/png/icon-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/png/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/png/image 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/png/image 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/png/image 3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/png/image 4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/png/image 5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/png/image 6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/png/image 7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/png/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/png/logos_telegram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/png/rec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/png/slide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/svg/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/svg/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/svg/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/svg/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/svg/Vector.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/svg/arrow1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/svg/arrow2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/svg/arrr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/svg/check.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/svg/clock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/svg/close.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/svg/cross.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/svg/cross_burger.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/svg/filter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/svg/iconamoon_arrow-down-2-light.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/svg/mail.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/svg/maps-and-flags.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/svg/menu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/svg/phone-receiver-silhouette.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/svg/phone.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/product.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/product/product.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/_about.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/blocks/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/blocks/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/_logos.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/_map.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/_preims.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/_slider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/_spec.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/catalog/_catalog.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/contacts/_contacts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/product/_product.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple__page.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/opt/homebrew/Cellar/php/8.3.2/bin/php" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2i38leBAJXLRC26HF1g6SYSlXts" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/nikitapolovkov/Documents/ACV",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/blocks" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-6f8e3395a2b4-com.jetbrains.php.sharedIndexes-PS-233.14475.35" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7935c323-afd8-4e5a-96e3-1177cd4149be" name="Changes" comment="" />
+      <created>1718708052344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718708052344</updated>
+      <workItem from="1718708053471" duration="6163000" />
+      <workItem from="1718781012702" duration="35638000" />
+      <workItem from="1719298541910" duration="13497000" />
+      <workItem from="1719423986220" duration="4215000" />
+      <workItem from="1720523985640" duration="303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
